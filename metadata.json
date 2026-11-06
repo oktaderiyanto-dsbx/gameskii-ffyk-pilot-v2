@@ -1,0 +1,8 @@
+{
+  "name": "Gameskii MVP — FFYK Pilot 10 Kompetisi (Podium-Only Ranking)",
+  "description": "Original Gameskii DIY esports athlete passport UI with 10 Free Fire competitions, 132 final standings, provisional UID-based player attribution, and podium-only +50/+35/+25 achievement points.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
